@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Online booking ticket",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to to buy ticket in Nyandungu wet park in kigali.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": ""
+  },
+  {
+    "title": "Air traffic service",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to record any flight in Kamembe ",
+    "skills": ["Java", "Express", "Node", "Sass"],
+    "demo": "https://www.example.com",
+    "source": ""
+  },
+  {
+    "title": "Farm management system",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made for farmers,it record the income and expense and make statistic based on data",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

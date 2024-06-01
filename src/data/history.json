@@ -1,0 +1,22 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "Ida tech ",
+    "startDate": "Sept, 2023",
+    "endDate": "Present",
+    "experiences": ["Worked on Smart class monitoring", "to know movement of student in class by 50%"],
+    "imageSrc": "history/ida1.png"
+  },
+ 
+  {
+    "role": "IOT Engineer",
+    "organisation": "Virtual Rwanda Technology",
+    "startDate": "Aug, 2022",
+    "endDate": "Sept, 2023",
+    "experiences": [
+      "Solar panel monitoring",
+      "Door automatic closer"
+    ],
+    "imageSrc": "history/vrt1.png"
+  }
+]
